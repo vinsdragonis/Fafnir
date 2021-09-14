@@ -3,9 +3,10 @@ import './NavBar.css';
 
 const NavBar = () => (
   <header className='navbar'>
-    <div className='navbar__title navbar__item'>Fafnir</div>
-    <div className='navbar__item'>About Us</div>
-    <div className='navbar__item'>Contact</div>
+    <a className='navbar__title navbar__item'>Fafnir</a>
+    <a className='navbar__item nav_link'>About Us</a>
+    <a className='navbar__item nav_link'>Sign in</a>
+    <a className='navbar__item nav_link'>Contact</a>
   </header>
 );
 
