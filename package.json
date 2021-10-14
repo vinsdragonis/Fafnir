@@ -15,7 +15,7 @@
     "styled-components": "^5.3.1",
     "tachyon": "0.0.11",
     "tachyons": "^4.12.0",
-    "tsparticles": "^1.35.4",
+    "tsparticles": "^1.36.0",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
