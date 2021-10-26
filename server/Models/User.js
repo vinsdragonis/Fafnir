@@ -19,7 +19,7 @@ const userSchema = mongoose.Schema({
     type: String,
     required: true,
   },
-  register_date: {
+  registered_on: {
     type: Date,
     default: Date.now,
   },
