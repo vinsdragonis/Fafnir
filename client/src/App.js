@@ -13,9 +13,7 @@ function App() {
           style={{
             display: "flex",
             justifyContent: "flex-start",
-            backgroundColor: "black",
-            borderRadius: "0",
-            paddingTop: "10px"
+            borderRadius: "0"
           }}
         >
           <Logo />
