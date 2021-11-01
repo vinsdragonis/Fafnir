@@ -21,9 +21,6 @@ const EditorComp = () => {
         </div>
       </div>
       <div style={{paddingTop: "20px"}}>
-        <div className='tc pa1 br3'>
-          <p className='pa1 br3 white underline' style={{ marginTop: "5px" }}>File name</p>
-        </div>
         <textarea className='form pa5 br3 w-75 h-100 shadow-5'  style={{height: "400px"}}></textarea>
       </div>
     </div>
