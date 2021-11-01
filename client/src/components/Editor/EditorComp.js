@@ -5,7 +5,7 @@ const EditorComp = () => {
     <div>
       <div>
         <div className='tl pa3 br3' style={{display: "inline"}}>
-          <button className='pa2 br3 grow' style={{ margin: "5px" }}>+</button>
+          <button className='pa2 br3 grow' style={{ margin: "5px" }}>➕</button>
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>📁</button>
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>💾</button>
         </div>
