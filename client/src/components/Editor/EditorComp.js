@@ -21,7 +21,7 @@ const EditorComp = () => {
         </div>
       </div>
       <div style={{paddingTop: "20px"}}>
-        <textarea className='form pa5 br3 w-75 h-100 shadow-5'  style={{height: "400px"}}></textarea>
+        <textarea className='form pa5 br3 w-70 h-100 shadow-5'  style={{height: "400px"}}></textarea>
       </div>
     </div>
   );
