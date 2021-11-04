@@ -4,7 +4,31 @@ import EditorComp from './components/Editor/EditorComp';
 import './App.css';
 import Logo from './components/Logo/Logo';
 
+const initialState = {
+  text: '',
+  route: 'signin',
+  isSignedIn: false
+}
+
 class App extends Component {
+  constructor() {
+    super();
+    this.state = initialState;
+  }
+  
+  loadUser = (data) => {
+    this.setState({
+      user: {
+        id: data.id,
+        name: data.name,
+        username: data.username,
+        email: data.email,
+        docs: data.docs,
+        registered_on: data.registered_on
+      }
+    });
+  }
+  
   render () {
     return (
       <div className="App">
