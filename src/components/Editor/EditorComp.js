@@ -14,7 +14,6 @@ const EditorComp = () => {
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>➕</button>
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>📁</button>
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>💾</button>
-          <button className='pa2 br3 grow' style={{ margin: "5px" }}>▶</button>
         </div>
         <div className='form tr pa5 br3' style={{display: "inline"}}>
           <input className='pa2 w-25 center' placeholder="Enter collab invite code" type="tex"></input>
