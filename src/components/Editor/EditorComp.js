@@ -19,13 +19,6 @@ const EditorComp = () => {
           <button className='pa2 br3 grow' style={{ margin: "5px" }}>GO</button>
         </div>
       </div>
-      <div style={{
-        paddingTop: "20px",
-        display: "inline"
-      }}>
-        <p>Name: </p>
-        <p>ID: </p>
-      </div>
       <div style={{paddingTop: "20px"}}>
         <textarea className='form pa5 br3 w-70 h-100 shadow-5'  style={{height: "400px"}}></textarea>
       </div>
