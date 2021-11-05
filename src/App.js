@@ -4,7 +4,8 @@ import EditorComp from './components/Editor/EditorComp';
 import './App.css';
 import Logo from './components/Logo/Logo';
 
-class App extends Component {render () {
+class App extends Component {
+  render () {
     return (
       <div className="App">
         <header className="App-header">
