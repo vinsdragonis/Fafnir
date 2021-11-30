@@ -1,6 +1,6 @@
 # realtime chat application
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+![Chat Application](https://ibb.co/2d6ZHrN)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
