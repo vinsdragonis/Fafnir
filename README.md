@@ -13,4 +13,4 @@ Setup:
 - run ```cd``` for both client and server side to start the development server
 
 ## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+New major projects coming soon, subscribe to the mailing list to stay up to date https://github.com/vinsdragonis/Fafnir.
