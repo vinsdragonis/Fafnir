@@ -4,8 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
 
+In server directory, you can run :
+
+### `npm i`
+### `npm start`
+
+In client directory, you can run:
+
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
